@@ -2,7 +2,7 @@
 
 Если нужно со мной связаться, вот мой ВК: [тык](http://vk.com/kgusarev/ "kgusarev")
 
-Я люблю писать на Lua для OpenComputers, а также пишу на Python Flask для веба и оконные приложения для Windows на C++.
+Я люблю писать на ***Lua*** для ***OpenComputers***, а также пишу на ***Python Flask*** для веба и оконные приложения для Windows на ***C++***.
 
 
 <!---
