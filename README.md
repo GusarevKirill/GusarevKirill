@@ -2,7 +2,7 @@
 
 Мой ВК: [тык](http://vk.com/kgusarev/ "kgusarev")
 
-Люблю писать на ***Lua*** для ***OpenComputers***, пишу веб-сервисы на ***Python Flask*** и GUI-приложения на ***C++ Qt***.
+Люблю писать на ***Lua*** для ***OpenComputers***, пишу веб на ***Python Flask*** и GUI-приложения на ***C++ Qt***.
 
 
 <!---
