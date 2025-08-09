@@ -1,6 +1,6 @@
 <!--- Меня зовут **Кирилл Гусарев** --->
 
-[VK](https://vk.com/kgusarev/ "kgusarev")
+[Telegram](https://t.me/kgusarev)
 
 I love coding with ***OpenComputers Lua***, ***Python Flask, aiogram***, ***C++ Qt***, and ***C***.
 
